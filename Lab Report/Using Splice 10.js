@@ -1,7 +1,7 @@
 const books = [
-    { title: "Book1", author: "Author1" },
-    { title: "Book2", author: "Author2" },
-    { title: "Book3", author: "Author3" }
+    { title: "Subconscious Mind", author: "Author1" },
+    { title: "Can't Hurt Me", author: "Author2" },
+    { title: "Warren Buffet", author: "Author3" }
 ];
 
 // Remove the second book
