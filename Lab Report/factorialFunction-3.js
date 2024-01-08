@@ -12,7 +12,6 @@ function calculateFactorial(number) {
     }
 }
 
-// Test the function with different numbers
 const testNumbers = [5, 7, 10];
 testNumbers.forEach(number => {
     console.log(`Factorial of ${number}: ${calculateFactorial(number)}`);
