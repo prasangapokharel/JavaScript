@@ -1,9 +1,10 @@
-const students = [
-    { name: "John", age: 20 },
-    { name: "Alice", age: 22 },
-    { name: "Bob", age: 21 }
+const people = [
+    { name: "Prasanga", age: 30 },
+    { name: "Saroj", age: 25 },
+    { name: "Ashish", age: 35 }
 ];
+const newPerson = { name: "Kapil", age: 28 };
+people.push(newPerson);
+people.pop();
 
-const ages = students.map((student) => student.age);
-
-console.log(ages);
+console.log(people);
