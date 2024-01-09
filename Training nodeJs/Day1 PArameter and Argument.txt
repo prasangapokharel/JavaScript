@@ -1,0 +1,5 @@
+//Facebook
+//Request is paremeter because request can be anything
+getData (request){
+    console.log(request)
+}
